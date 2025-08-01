@@ -241,7 +241,8 @@ dist/
 # results
 output/
 *.json
-result_outputs/
+result_outputs*/
+*.html
 
 __pycache__
 **/__pycache__/
